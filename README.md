@@ -1,9 +1,10 @@
 # Backend Developer | Python | Django | REST APIs | MongoDB | RDS | GCP | AWS
 
-Backend Developer skilled in Python, Django, and building RESTful APIs with one year of experience. Proficient in working with MongoDB and utilizing the power of pymongo for efficient data management. Familiar with RDS for robust and scalable database solutions. Also, have hands-on experience with GCP services like Google Cloud Storage (GCS) and DocumentAI, as well as AWS S3. Passionate about creating robust and scalable backend architectures, optimizing performance, and delivering high-quality code. Constantly seeking new challenges and learning opportunities to stay updated with the latest technologies and industry best practices.
+Hello there,
+My name is Rehan
+I'm a backend software engineer having expertise in Python Django. I'm currently working in Taleemabad which is an EdTech product.
 
-## Skills
-
+Skills
 - Python
 - Django
 - REST APIs
