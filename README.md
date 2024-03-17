@@ -1,7 +1,9 @@
 # Backend Developer | Python | Django | REST APIs | MongoDB | RDS | GCP | AWS
 
 Hello there,
+
 My name is Rehan
+
 I'm a backend software engineer having expertise in Python Django. I'm currently working in Taleemabad which is an EdTech product.
 
 Skills
