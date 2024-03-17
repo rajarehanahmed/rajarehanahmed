@@ -22,4 +22,4 @@ Skills
 
 Feel free to reach out for collaborations or any exciting projects!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)]([https://www.linkedin.com/in/yourname](https://www.linkedin.com/in/rehan99/)https://www.linkedin.com/in/rehan99/)
+https://www.linkedin.com/in/rehan99/
