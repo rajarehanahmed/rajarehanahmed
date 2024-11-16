@@ -1,12 +1,16 @@
 ### Hi there 👋
 
-## My name is Raja Rehan Ahmed.
+## My name is Rehan.
 
 ---
 
-I am a Backend Software Engineer. Although my core expertise are in backend technologies including python, django, postgresql, mongodb, aws, gcp, I have also built some internal tools' front-end in a no code tool, [Retool](https://retool.com/), where I used javascript extensively. Lately I also got to work in GenAI field as a prompt engineer along with building the backend for a content generation pipeline, using the LLMs including OpenAI's GPT-4 turbo and vision, as well as Google's Gemini Ultra.
+I am a Software Engineer with expertise in Python, Django, DRF, PostgreSQL, MongoDB, AWS, and GCP.I have built educational content generation pipelines powered by LLMs, including OpenAI, Google APIs, Gemini, and Claude, catering to both Urdu and English medium subjects reducing the time to create the content from 50-70%
 
-Currently, I'm working as a Backend Software Engineer at Taleemabad, the largest ed-teach in Pakistan, where I collaborate with the Engineering, Product and Digital Learning teams to build internal as well as user facing products for delivering quality education to thousands of schools and millions of students across Pakistan.
+I’ve also developed automated systems i.e. WhatsApp chatbot to facilitate student assessments and deliver educational content. From ideation and design to implementation and reporting, I’ve collaborated closely with stakeholders to ensure impactful solutions. Analyzing engagement data has been a key part of my work, helping drive improvements and increase user engagement.
+
+Alongside backend development, I’ve also built a few internal tools where alongside building the backend, built the frontend using [Retool](https://retool.com/), a no code tool where I used JavaScript extensively to customize it according to our use cases.
+
+Currently, I’m part of Taleemabad, Pakistan’s largest ed-tech platform, where I work with cross-functional teams to build products which help deliver quality education to thousands of schools and millions of students across Pakistan.
 
 ---
 
