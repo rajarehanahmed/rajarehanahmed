@@ -4,13 +4,25 @@
 
 ---
 
-I am a Software Engineer with expertise in Python, Django, DRF, PostgreSQL, MongoDB, AWS, and GCP.I have built educational content generation pipelines powered by LLMs, including OpenAI, Google APIs, Gemini, and Claude, catering to both Urdu and English medium subjects reducing the time to create the content from 50-70%
+👋 Hi, I'm a Software Engineer with a strong focus on backend development and a deep love for building impactful products. My toolkit includes Python, Django, DRF, Docker, PostgreSQL, MongoDB, JavaScript, AWS (S3, SQS, Lambda), GCP, and Pinecone.
 
-I’ve also developed automated systems i.e. WhatsApp chatbot to facilitate student assessments and deliver educational content. From ideation and design to implementation and reporting, I’ve collaborated closely with stakeholders to ensure impactful solutions. Analyzing engagement data has been a key part of my work, helping drive improvements and increase user engagement.
+🔧 I build robust APIs and data-driven systems that power user-facing applications and internal tools. Beyond that, I’ve led and contributed to several exciting projects, including:
 
-Alongside backend development, I’ve also built a few internal tools where alongside building the backend, built the frontend using [Retool](https://retool.com/), a no code tool where I used JavaScript extensively to customize it according to our use cases.
+🚀 AI-Powered Educational Content Pipelines
+Used LLMs like OpenAI, Claude, Gemini, and Google APIs to generate bilingual (Urdu + English) educational content—cutting content creation time by 50–70%.
 
-Currently, I’m part of Taleemabad, Pakistan’s largest ed-tech platform, where I work with cross-functional teams to build products which help deliver quality education to thousands of schools and millions of students across Pakistan.
+🔄 Legacy to Modern Django Migration
+Worked with my team to migrate a legacy Django backend to a new architecture with zero downtime—a major win for stability and scalability.
+
+📱 WhatsApp Chatbot for At-Home Learning
+Designed and built a chatbot using the WhatsApp Business API to deliver educational content and assessments directly to parents. I handled everything from ideation and implementation to analytics and continuous improvements.
+
+🛠️ Internal Tooling with Retool
+Built several custom internal tools—developing both backends and highly customized frontends using Retool + JavaScript to match our team’s exact needs.
+
+🎯 Currently, I’m at Taleemabad, Pakistan’s largest ed-tech platform, where I collaborate with cross-functional teams to build scalable tech that brings quality education to thousands of schools and millions of students nationwide.
+
+Let’s connect if you're working on something meaningful in ed-tech, GenAI, or backend systems
 
 ---
 
