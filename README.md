@@ -4,7 +4,7 @@
 
 ---
 
-👋 Hi, I'm a Software Engineer with a strong focus on backend development and a deep love for building impactful products. My toolkit includes Python, Django, DRF, Docker, PostgreSQL, MongoDB, JavaScript, AWS (S3, SQS, Lambda), GCP, and Pinecone.
+I'm a Software Engineer with a strong focus on backend development and a deep love for building impactful products. My toolkit includes Python, Django, DRF, Docker, PostgreSQL, MongoDB, JavaScript, AWS (S3, SQS, Lambda), GCP, and Pinecone.
 
 🔧 I build robust APIs and data-driven systems that power user-facing applications and internal tools. Beyond that, I’ve led and contributed to several exciting projects, including:
 
